@@ -44,7 +44,7 @@ li {
   width: 100%;
   /*  背景を画面下まで設定  */
   height: 100vh;
-  background-image: url(https://github.com/honobono347/sample2/blob/main/main.jpg);
+  background-image: url(https://github.com/honobono347/sample2/blob/main/main.jpg?raw=true);
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
